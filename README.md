@@ -1,5 +1,8 @@
 # Asteroids
-Asteroids is a space-themed multidirectional shooter arcade.
+# Asteroids is a space-themed multidirectional shooter arcade.
+
+Code located here: https://github.com/npetrelli/More-C-sharp-Programming-and-Unity
+
 When we open the game, we see:
 ![alt text](https://github.com/npetrelli/Asteroids/blob/master/1.png "1")
 We can shoot clicking CTRL to asteroids then asteroids will break into such little asteroids:
